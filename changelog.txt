@@ -1,1 +1,1 @@
-Initial version
+This version is the pre-release before open/save functionality is added.
