@@ -1,3 +1,7 @@
+*** version 1.0.3 ***
+
+	Make "oz." say "eighths" (come on man gimme a challenge)
+
 *** version 1.0.2 ***
 
 	Set autosave to enabled by default.
