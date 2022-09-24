@@ -1,3 +1,7 @@
+*** version 1.0.3b **
+
+	Make the stupid updater only update when there's actually an update
+
 *** version 1.0.3a **
 
 	Hotfix dat minus butt
